@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/InfernoDragneel.github.io/Mon-exam/static/css/main.e6c13ad2.css",
+    "main.js": "/InfernoDragneel.github.io/Mon-exam/static/js/main.077adf83.js",
+    "static/js/651.8d13c4d3.chunk.js": "/InfernoDragneel.github.io/Mon-exam/static/js/651.8d13c4d3.chunk.js",
+    "index.html": "/InfernoDragneel.github.io/Mon-exam/index.html",
+    "main.e6c13ad2.css.map": "/InfernoDragneel.github.io/Mon-exam/static/css/main.e6c13ad2.css.map",
+    "main.077adf83.js.map": "/InfernoDragneel.github.io/Mon-exam/static/js/main.077adf83.js.map",
+    "651.8d13c4d3.chunk.js.map": "/InfernoDragneel.github.io/Mon-exam/static/js/651.8d13c4d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.077adf83.js"
+  ]
+}
